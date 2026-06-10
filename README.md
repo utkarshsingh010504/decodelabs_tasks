@@ -9,8 +9,9 @@ This project demonstrates a simple end-to-end Machine Learning workflow to clean
 The goal of this project is to predict the species of a flower based on its structural characteristics. The workflow includes:
 1. **Data Cleaning:** Removing duplicate entries and handling missing values to ensure high data quality.
 2. **Feature Engineering:** Separating independent features ($X$) from the target label ($y$).
-3. **Model Training:** Splitting the data into training and testing sets, then fitting a KNN classifier.
-4. **Evaluation:** Scoring the model's predictive accuracy on unseen test data.
+3. **EDA:** Apply Exploratory Data Analysis.
+4. **Model Training:** Splitting the data into training and testing sets, then fitting a KNN classifier.
+5. **Evaluation:** Scoring the model's predictive accuracy on unseen test data.
 
 ---
 
